@@ -9,5 +9,5 @@ My Hobby is having crazy ideas (🤪) and turning them into a really cool projec
 Would you like to find me?
 
 [![Facebook Badge](https://img.shields.io/badge/Bruno_Santos-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004320695306)](https://www.facebook.com/profile.php?id=100004320695306)
-[![Instagram Badge](https://img.shields.io/badge/@bruno._rs-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno._rs/?hl=pt-br)](https://www.instagram.com/bruno._rs/?hl=pt-br)
+[![Instagram Badge](https://img.shields.io/badge/@bruno._rs-E4405F?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/_rsbruno/?hl=pt-br)](https://www.instagram.com/_rsbruno/?hl=pt-br)
 [![Linkedin Badge](https://img.shields.io/badge/Bruno_Roberto_Santos-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rsbruno/)](https://www.linkedin.com/in/rsbruno/)
