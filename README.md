@@ -1,10 +1,9 @@
 ## 🤙 "Eai Visitante" \o/ ✌️
 
-I'm Bruno, and live in Brasil 🇧🇷
+Eu sou Bruno Roberto Santos, Atualmente sou desenvolvedor frontend na empresa Pumpkin. Tenho experiência em desenvolvimento banckend também, mas acho encontrei no front um
+lugar que posso chamar de lar...resumindo me sinto em casa!
 
-Actually I'm a Computer Science student at the Federal University of Alfenas - UNIFAL (🎓), however already had the opportunity to work as a Scrum Master in two real projects (👻).
-
-My Hobby is having crazy ideas (🤪) and turning them into a really cool project, either to practice my knowledge, or to facilitate solving some problems (👽)...
+Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me posiibilita agilidade, entre as conheço estão as seguintes:
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
@@ -33,7 +32,11 @@ My Hobby is having crazy ideas (🤪) and turning them into a really cool projec
 &nbsp;  
 </p>
 
-Would you like to find me?
+Além de Denvolvedor, no momento, sou estudante de Ciência da Computação pela Universidade Federal de Alfenas - UNIFAL. 
+
+Enfim... sou do time que gosta de criar soluções inovadoras e que adora usar tecnologia á nosso favor e principalmente criar recursos que possam facilitar e impactar vidas!
+
+Que tal me seguir nas redes sociais?
 
 [![Facebook Badge](https://img.shields.io/badge/Bruno_Santos-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004320695306)](https://www.facebook.com/profile.php?id=100004320695306)
 [![Instagram Badge](https://img.shields.io/badge/@bruno._rs-E4405F?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/_rsbruno/?hl=pt-br)](https://www.instagram.com/_rsbruno/?hl=pt-br)
