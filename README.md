@@ -1,6 +1,6 @@
 ## 🤙 "Eai Visitante" \o/ ✌️
 
-Eu sou Bruno Roberto Santos, atualmente sou desenvolvedor frontend 🎒 na empresa Pumpkin. Tenho experiência em desenvolvimento banckend também, mas acho que encontrei no front um
+**Eu sou Bruno Roberto Santos**. atualmente sou desenvolvedor frontend 🎒 na empresa Pumpkin. Tenho experiência em desenvolvimento banckend também, mas acho que encontrei no front um
 lugar onde posso chamar de lar...💙 resumindo me sinto em casa🏡!
 
 Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me possibilita agilidade, entre as conheço estão as seguintes:
