@@ -1,9 +1,9 @@
 ## 🤙 "Eai Visitante" \o/ ✌️
 
-Eu sou Bruno Roberto Santos, Atualmente sou desenvolvedor frontend na empresa Pumpkin. Tenho experiência em desenvolvimento banckend também, mas acho encontrei no front um
-lugar que posso chamar de lar...resumindo me sinto em casa!
+Eu sou Bruno Roberto Santos, atualmente sou desenvolvedor frontend 🎒 na empresa Pumpkin. Tenho experiência em desenvolvimento banckend também, mas acho que encontrei no front um
+lugar onde posso chamar de lar...💙 resumindo me sinto em casa🏡!
 
-Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me posiibilita agilidade, entre as conheço estão as seguintes:
+Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me possibilita agilidade, entre as conheço estão as seguintes:
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
@@ -32,9 +32,9 @@ Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me posiibili
 &nbsp;  
 </p>
 
-Além de Denvolvedor, no momento, sou estudante de Ciência da Computação pela Universidade Federal de Alfenas - UNIFAL. 
+Além de Denvolvedor, no momento, sou estudante de Ciência da Computação pela Universidade Federal de Alfenas - UNIFAL. 🎓🎓
 
-Enfim... sou do time que gosta de criar soluções inovadoras e que adora usar tecnologia á nosso favor e principalmente criar recursos que possam facilitar e impactar vidas!
+Enfim... sou do time que gosta de criar soluções inovadoras, que adora usar tecnologia á meu favor e principalmente prefiro desenvolver recursos que possam facilitar e impactar vidas!💙💙
 
 Que tal me seguir nas redes sociais?
 
