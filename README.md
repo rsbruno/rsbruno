@@ -30,8 +30,7 @@ My Hobby is having crazy ideas (🤪) and turning them into a really cool projec
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
 &nbsp;   
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
-&nbsp;
-<img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />   
+&nbsp;  
 </p>
 
 Would you like to find me?
