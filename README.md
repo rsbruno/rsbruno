@@ -20,12 +20,13 @@ Enfim... sou do time que gosta de criar soluções inovadoras, que adora usar te
 
 Que tal me seguir nas redes sociais?
 
+
 <a href="https://www.facebook.com/profile.php?id=100004320695306" target="_blank">
   <img src="https://user-images.githubusercontent.com/86053723/165199520-3046b3c2-3b97-492f-b6ab-0f3f18e1116e.png" height="42px" width="42px"/> 
 </a>
 
 <a href="https://www.instagram.com/_rsbruno/?hl=pt-br" target="_blank">
-  <img src="https://user-images.githubusercontent.com/86053723/165200446-6b8d9c4e-6dba-4a8d-8982-bff4e4225562.svg" height="42px" width="42px"/> 
+  <img src="https://user-images.githubusercontent.com/86053723/165200788-49cc9061-3c8b-4102-a8cb-2badcddbda7e.png" height="42px" width="42px"/> 
 </a>
 
 <a href="https://www.linkedin.com/in/rsbruno/" target="_blank">
