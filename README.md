@@ -6,13 +6,7 @@ lugar onde posso chamar de lar...💙 resumindo me sinto em casa🏡!
 Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me possibilita agilidade, entre as conheço estão as seguintes:
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
-&nbsp;
-<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
-&nbsp;  
-<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+<img src="https://drive.google.com/file/d/1Pgl9LNKiImFoGmyZxDpH19e3l9njuOb4/view?usp=sharing" height="35px"/>
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
