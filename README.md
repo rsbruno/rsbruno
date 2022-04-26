@@ -6,25 +6,13 @@ lugar onde posso chamar de lar...💙 resumindo me sinto em casa🏡!
 Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me possibilita agilidade, entre as conheço estão as seguintes:
 
 <p>
-<img src="https://drive.google.com/file/d/1Pgl9LNKiImFoGmyZxDpH19e3l9njuOb4/preview" height="35px"/>
-&nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+<img src="https://user-images.githubusercontent.com/86053723/165197642-696feea5-bb06-4729-b01e-b6b466ddd373.svg" height="42px" width="42px"/>
 &nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+<img src="https://user-images.githubusercontent.com/86053723/165197904-31c4e20f-7e20-4c0b-8eda-d291bf2530e2.svg" height="42px" width="42px"/> 
 &nbsp;
-<img src="https://bestofjs.org/logos/watermelon.svg" height="35px" /> 
+<img src="https://user-images.githubusercontent.com/86053723/165198328-66e6f2a1-c1a2-4858-b661-7b8f964060dd.svg" height="42px" width="42px"/> 
 &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
-&nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
-&nbsp;
-<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
-&nbsp;   
-<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
-&nbsp;  
-</p>
+<img src="https://user-images.githubusercontent.com/86053723/165199317-27b061b2-ed6e-4638-8170-03cd8d0c78f2.svg" height="42px" width="42px"/> 
 
 Além de Denvolvedor, no momento, sou estudante de Ciência da Computação pela Universidade Federal de Alfenas - UNIFAL. 🎓🎓
 
@@ -32,6 +20,14 @@ Enfim... sou do time que gosta de criar soluções inovadoras, que adora usar te
 
 Que tal me seguir nas redes sociais?
 
-[![Facebook Badge](https://img.shields.io/badge/Bruno_Santos-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004320695306)](https://www.facebook.com/profile.php?id=100004320695306)
-[![Instagram Badge](https://img.shields.io/badge/@bruno._rs-E4405F?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/_rsbruno/?hl=pt-br)](https://www.instagram.com/_rsbruno/?hl=pt-br)
-[![Linkedin Badge](https://img.shields.io/badge/Bruno_Roberto_Santos-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rsbruno/)](https://www.linkedin.com/in/rsbruno/)
+<a href="https://www.facebook.com/profile.php?id=100004320695306" target="_blank">
+  <img src="https://user-images.githubusercontent.com/86053723/165199520-3046b3c2-3b97-492f-b6ab-0f3f18e1116e.png" height="42px" width="42px"/> 
+</a>
+
+<a href="https://www.instagram.com/_rsbruno/?hl=pt-br" target="_blank">
+  <img src="https://user-images.githubusercontent.com/86053723/165200446-6b8d9c4e-6dba-4a8d-8982-bff4e4225562.svg" height="42px" width="42px"/> 
+</a>
+
+<a href="https://www.linkedin.com/in/rsbruno/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/86053723/165200084-aa29b2ef-01a9-4cc0-a55c-1d11bd415e0e.svg" height="42px" width="42px"/> 
+</a>
