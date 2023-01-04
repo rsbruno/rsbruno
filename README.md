@@ -1,9 +1,11 @@
 ## 🤙 "Eai Visitante" \o/ ✌️
 
-**Eu sou Bruno Roberto Santos**. atualmente sou desenvolvedor frontend 🎒 na empresa Pumpkin. Também tenho experiência em desenvolvimento banckend, mas acho que encontrei no front um
-lugar onde posso chamar de lar...💙 resumindo me sinto em casa🏡!
+Desenvolvedor FullStack.
 
-Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me possibilita agilidade, entre as conheço estão as seguintes:
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/rsbruno/) 
+[![Gmail Badge](https://img.shields.io/badge/-rsbruno.cdc@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsbruno.cdc@gmail.com)](mailto:rsbruno.cdc@gmail.com)
+
+Entusiasta nas melhores tecnologias de desenvolvimento web & mobile.
 
 <p>
 <img src="https://user-images.githubusercontent.com/86053723/165197642-696feea5-bb06-4729-b01e-b6b466ddd373.svg" height="42px" width="42px"/>
@@ -16,19 +18,4 @@ Não sou apegado a tecnologias, prefiro usar a meu favor a que mais me possibili
 
 Além de Denvolvedor, no momento, sou estudante de Ciência da Computação pela Universidade Federal de Alfenas - UNIFAL. 🎓🎓
 
-Enfim... sou do time que gosta de criar soluções inovadoras, que adora usar tecnologia a meu favor e principalmente prefiro desenvolver recursos que possam facilitar e impactar vidas!💙💙
-
-Que tal me seguir nas redes sociais?
-
-
-<a href="https://www.facebook.com/profile.php?id=100004320695306" target="_blank">
-  <img src="https://user-images.githubusercontent.com/86053723/165199520-3046b3c2-3b97-492f-b6ab-0f3f18e1116e.png" height="42px" width="42px"/> 
-</a>
-
-<a href="https://www.instagram.com/_rsbruno/?hl=pt-br" target="_blank">
-  <img src="https://user-images.githubusercontent.com/86053723/165200788-49cc9061-3c8b-4102-a8cb-2badcddbda7e.png" height="42px" width="42px"/> 
-</a>
-
-<a href="https://www.linkedin.com/in/rsbruno/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/86053723/165200084-aa29b2ef-01a9-4cc0-a55c-1d11bd415e0e.svg" height="42px" width="42px"/> 
-</a>
+Gosto de fazer parte do time que cria soluções inovadoras, que adora usar tecnologia para o benefício prório e principalmente desenvolver recursos que possam facilitar e impactar vidas!💙💙
